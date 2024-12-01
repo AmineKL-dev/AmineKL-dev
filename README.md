@@ -7,6 +7,6 @@
 ## 💼 Projects
 i'm here to do my best produce Good projects and learn team-working that make me happy😊.
 ## 📫 Get in Touch
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/amine-koula-30b07531a/)
+![LinkedIn]](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/amine-koula-30b07531a/)
  
  
